@@ -1,10 +1,10 @@
 # WatchList
 
-This application provides updated information on movies and series (media), by utilizing external APIs. Users can create personalized media lists and generate recommendations with artificial intelligence based on their personal media list.
+This application provides updated information on movies and series (media), by utilizing external APIs. Users can create personalized media lists and generate recommendations with artificial intelligence(AI) based on their personal media list.
 
-## Architecture Diagram
+## Microservices Architecture
 
-![Architecture Diagram](../assets/WatchList%20Backend%20Arquitecture.jpg)
+![Architecture Diagram](../assets/WatchList%20Backend%20Arquitecture.drawio.png)
 
 *Note: The architecture of this application could have been implemented as a monolithic system. However, the decision to use a microservices architecture was made for learning purposes and to gain experience with distributed systems.*
 
