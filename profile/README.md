@@ -4,7 +4,7 @@ This application provides updated information on movies and series (media), by u
 
 ## Architecture Diagram
 
-![Architecture Diagram](/.github/assets/WatchList%20Backend%20Arquitecture.jpg)
+![Architecture Diagram](/../assets/WatchList%20Backend%20Arquitecture.jpg)
 
 *Note: The architecture of this application could have been implemented as a monolithic system. However, the decision to use a microservices architecture was made for learning purposes and to gain experience with distributed systems.*
 
