@@ -8,6 +8,22 @@ This application provides updated information on movies and series (media), by u
 
 *Note: The architecture of this application could have been implemented as a monolithic system. However, the decision to use a microservices architecture was made for learning purposes and to gain experience with distributed systems.*
 
+## Pictures
+
+| ![Home](../assets/home.png) | ![Search Movie](../assets/search-movie.png) | ![Search Series](../assets/search-serie.png) |
+|:---------------------------:|:------------------------------------------:|:-------------------------------------------:|
+| Home                        | Search Movie                               | Search Series                               |
+
+| ![My List](../assets/my-list.png) | ![My List (Mobile)](../assets/my-list-mobile.png) | ![Search Movie (Mobile)](../assets/search-movie-mobile.png) | ![AI Recommendations](../assets/AI-recommendations.png) |
+|:--------------------------------:|:------------------------------------------------:|:---------------------------------------------------------:|:-------------------------------------------------------:|
+| My List                          | My List (Mobile)                                 | Search Movie (Mobile)                                     | AI Recommendations                                      |
+
+
+
+
+
+
+
 ## Key Features
 - **Up-to-date Media Information**: Retrieve the latest details on movies and series through external API integrations.
 - **User Media Lists**: Create and manage your personal media.
