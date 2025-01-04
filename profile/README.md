@@ -10,13 +10,16 @@ This application provides updated information on movies and series (media), by u
 
 ## Pictures
 
-| ![Home](../assets/home.png) | ![Search Movie](../assets/search-movie.png) | ![Search Series](../assets/search-serie.png) |
-|:---------------------------:|:------------------------------------------:|:-------------------------------------------:|
-| Home                        | Search Movie                               | Search Series                               |
+## Pictures
 
-| ![My List](../assets/my-list.png) | ![My List (Mobile)](../assets/my-list-mobile.png) | ![Search Movie (Mobile)](../assets/search-movie-mobile.png) | ![AI Recommendations](../assets/AI-recommendations.png) |
-|:--------------------------------:|:------------------------------------------------:|:---------------------------------------------------------:|:-------------------------------------------------------:|
-| My List                          | My List (Mobile)                                 | Search Movie (Mobile)                                     | AI Recommendations                                      |
+| ![Home](../assets/home.png) | ![Search Series](../assets/search-serie.png) | ![Search Movie](../assets/search-movie.png) |
+|:-:|:-:|:-:|
+| Home | Search series | Search movies |
+
+| ![Search Movie (Mobile)](../assets/search-movie-mobile.png) | ![My List](../assets/my-list.png) | ![My List (Mobile)](../assets/my-list-mobile.png)| ![AI Recommendations](../assets/AI-recommendations.png) |
+|:-:|:-:|:-:|:-:|
+| Search movies (Mobile) | User media list | User media list (Mobile)| Generate AI recommendations based on your list |
+
 
 
 
